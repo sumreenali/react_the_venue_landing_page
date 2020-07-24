@@ -42,6 +42,7 @@ class Header extends Component {
         position="fixed"
         style={{
           background: headerShown ? colors.dark : "transparent",
+          backgroundOrigin: "center",
           boxShadow: "none",
           padding: headerShown ? "10px 0px" : "16px 0px",
         }}
