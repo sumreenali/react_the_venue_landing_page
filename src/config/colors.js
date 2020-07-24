@@ -1,3 +1,3 @@
 export const colors = {
-  dark: "#46474a",
+  dark: "#3c3c3c",
 };
